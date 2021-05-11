@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "401391767836",
+    "project_id": "prep4exam-551e5",
+    "storage_bucket": "prep4exam-551e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401391767836:android:9fb40e8b47b65734152ad9",
+        "android_client_info": {
+          "package_name": "com.example.prep4exam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401391767836-75ra03ov0u0qij0kmmet3f7n5ikjrgs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIhnv7njFeB4y2-gL_Qnktvdrhv7ZBbmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401391767836-75ra03ov0u0qij0kmmet3f7n5ikjrgs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
