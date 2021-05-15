@@ -6,7 +6,6 @@ PROJECT SYNOPSIS
 OF PROJECT-II (CSE) 
 </p>
 
-- 
 <p align="center">
 	<img  src="https://upload.wikimedia.org/wikipedia/en/4/42/GLA_University_logo.png" alt="Material Bread logo"
 
